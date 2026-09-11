@@ -1,4 +1,4 @@
-# app.py
+# app.py in test-audit
 
 import sqlite3
 import hashlib
@@ -10,7 +10,6 @@ import time
 
 # ============================================================
 # Demo Application - Intentionally Vulnerable
-# DO NOT USE THESE VALUES IN REAL APPLICATIONS
 # ============================================================
 
 API_KEY = "sk_test_FAKE_DEMO_KEY_123456789"
