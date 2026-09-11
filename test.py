@@ -1,3 +1,4 @@
+# Security audit test
 import sqlite3
 
 def get_user(username):
