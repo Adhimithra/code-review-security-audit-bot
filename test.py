@@ -1,5 +1,7 @@
 import sqlite3
 
+API_KEY = "sk_test_FAKE123456789"
+
 def get_user(username):
     query = "SELECT * FROM users WHERE name = '" + username + "'"
     return db.execute(query).fetchall()
