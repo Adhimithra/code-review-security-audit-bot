@@ -525,3 +525,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+# Automated security audit test
+audit_test = True
